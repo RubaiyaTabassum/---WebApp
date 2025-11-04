@@ -36,3 +36,7 @@ This repository contains the front-end code for **Swasthya Sathi**, a mobile-fir
 ### How to Run
 - Simply open `index.html` in your browser to view the app.
 - The app is fully offline-friendly.
+
+- ### Live Demo
+You can view the live demo of **Shasthyo Sathi** here: https://celadon-starburst-f077d1.netlify.app/
+
